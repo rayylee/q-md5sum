@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/Resources">
+        <file>q-md5.ico</file>
+        <file>q-md5_2.ico</file>
+    </qresource>
+</RCC>
